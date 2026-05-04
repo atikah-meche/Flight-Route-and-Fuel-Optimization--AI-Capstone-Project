@@ -1,0 +1,2 @@
+# Flight-Route-and-Fuel-Optimization--AI-Capstone-Project
+This repository includes the capstone project for our course CS-333 AI and Machine Learning. The main aim of the project was to use Machine Learning or Deep Learning methods to an engineering problem. Our code used ADS-B dataset from different flights and the openap.dev combined to map the routes of different flights and to compute their fuel flow.
